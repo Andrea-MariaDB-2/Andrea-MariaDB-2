@@ -1,4 +1,5 @@
-https://gist.github.com/Andrea-MariaDB-2/755340b103aa09d661d661778a252ff3#gistcomment-3839072
+[![GPLv3](img.shields.io/badge/License-GPLv3-brightgreen.svg)](gnu.org/licenses/gpl-3.0)
+[![Go Report](goreportcard.com/badge/github.com/tnpitsecurity/ligolo-ng)](goreportcard.com/report/github.com/tnpitsecurity/ligolo-ng)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)                 
      
