@@ -1,5 +1,4 @@
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://https://gnu.org/licenses/gpl-3.0)
-[![Go Report](https://goreportcard.com/badge/https://github.com/tnpitsecurity/ligolo-ng)](https://https://goreportcard.com/report/https://github.com/tnpitsecurity/ligolo-ng)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)                 
      
