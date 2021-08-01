@@ -1,7 +1,6 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-[![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)
-<img alt="open collective badge" src="https://opencollective.com/andreamariadb/tiers/backer/badge.svg?label=backer&color=brightgreen" /                   
+[![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)                 
      
 # js-bxkw28
 
