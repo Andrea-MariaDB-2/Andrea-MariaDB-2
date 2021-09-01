@@ -1,6 +1,6 @@
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://https://gnu.org/licenses/gpl-3.0)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-[![jsdeliver.com](https://data.jsdelivr.com/v111111/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)         [![Otechie](https://api.otechie.com/andrea-mariadb/badge.svg)](https://otechie.com/andrea-mariadb) 
+[![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)                         [![Otechie](https://api.otechie.com/andrea-mariadb/badge.svg)](https://otechie.com/andrea-mariadb) 
 
 # [![Welcome To Andrea-MariaDB-2 Github Profile]
 
