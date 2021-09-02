@@ -1,8 +1,8 @@
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://https://gnu.org/licenses/gpl-3.0)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://data.jsdelivr.com/v1/package/npm/vue/badge)](https://www.jsdelivr.com/package/npm/vue)                         [![Otechie](https://api.otechie.com/andrea-mariadb/badge.svg)](https://otechie.com/andrea-mariadb) 
-<script src="https://liberapay.com/Andrea-MariaDB/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/Andrea-MariaDB/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+[![](<script src="https://liberapay.com/Andrea-MariaDB/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/Andrea-MariaDB/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>)
 
 
 # Welcome To Andrea-MariaDB-2 Github Profile
