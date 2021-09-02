@@ -14,3 +14,4 @@
 <img src="https://img.shields.io/liberapay/gives/Andrea-MariaDB.svg?logo=liberapay">
 <img src="https://img.shields.io/liberapay/patrons/Andrea-MariaDB.svg?logo=liberapay">
 <img src="https://img.shields.io/liberapay/goal/Andrea-MariaDB.svg?logo=liberapay">
+[License](https://codepen.io/andrea-mariadb-2/pen/MWoydWj/license).
